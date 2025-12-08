@@ -1,0 +1,6 @@
+this is for practice file 
+step to git commands 
+1. git init is to initialize git in folder 
+2. git add filename is move the file into temporary area  
+3. git commit -m "your message here" is used to commit the file with message
+4. git push origin master
