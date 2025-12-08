@@ -6,3 +6,4 @@ git branch
 git merge
 
 git pull
+git revert
